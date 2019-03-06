@@ -1,6 +1,8 @@
 MongoDB container images
 =====================
 
+Updated. Created my own
+
 This repository contains Dockerfiles for MongoDB images for OpenShift.
 Users can choose between RHEL, Fedora and CentOS based images.
 
